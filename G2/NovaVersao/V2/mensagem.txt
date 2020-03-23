@@ -1,0 +1,2 @@
+Neste segundo guião vamos, também, testar se a mensagem é corretamente cifrada e decifrada segundo a cifra Fernet.
+Se tudo correr bem, este ficheiro e o ficheiro 'mensagem.dec' vão ser exatamente iguais.
